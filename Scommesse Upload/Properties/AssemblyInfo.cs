@@ -6,11 +6,11 @@ using System.Security;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Scommesse Excel")]
+[assembly: AssemblyTitle("Scommesse Upload")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Scommesse Excel")]
+[assembly: AssemblyProduct("Scommesse Upload")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -21,7 +21,7 @@ using System.Security;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("3a6e6c54-6841-41bb-886f-8b47073b38c9")]
+[assembly: Guid("82f85fb5-640d-4b66-b7d8-27d4356045a4")]
 
 // Version information for an assembly consists of the following four values:
 //
